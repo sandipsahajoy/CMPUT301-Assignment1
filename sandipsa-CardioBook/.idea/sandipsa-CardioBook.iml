@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../sandipsa-CardioBook/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../sandipsa-CardioBook/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../sandipsa-CardioBook/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../sandipsa-CardioBook/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../sandipsa-CardioBook/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../sandipsa-CardioBook/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../sandipsa-CardioBook/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/code">
+      <sourceFolder url="file://$MODULE_DIR$/code/app/build/generated/source/buildConfig/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/app/build/generated/not_namespaced_r_class_sources/debug/r" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/app/src/androidTest/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/app/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
